@@ -1,0 +1,233 @@
+<svg height="3678" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3678" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 01:48:33 +0000 10525020 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 01:48:33 +0000    19229 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 01:48:33 +0000     4970 bytes  CODE_OF_CONDUCT.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 01:48:33 +0000     4911 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 01:48:33 +0000     1081 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 01:48:33 +0000     1845 bytes  ORGANIZATION.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 01:48:33 +0000     4528 bytes  README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 01:48:33 +0000      781 bytes  ROADMAP.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 01:48:33 +0000  4949640 bytes  build/aframe.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 01:48:33 +0000      357 bytes  codecov.yml</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 01:48:33 +0000     1634 bytes  dist/README.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 01:48:33 +0000  2067696 bytes  dist/aframe-master.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 01:48:33 +0000  2649623 bytes  dist/aframe-master.js.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 01:48:33 +0000     1119 bytes  docs/components/blend-model.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 01:48:33 +0000     3475 bytes  docs/components/camera.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 01:48:33 +0000     1771 bytes  docs/components/collada-model.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 01:48:33 +0000     6754 bytes  docs/components/cursor.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 01:48:33 +0000     1622 bytes  docs/components/debug.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 01:48:33 +0000      385 bytes  docs/components/embedded.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 01:48:33 +0000     1870 bytes  docs/components/fog.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 01:48:33 +0000    16996 bytes  docs/components/geometry.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 01:48:33 +0000     3296 bytes  docs/components/gltf-model.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 01:48:33 +0000     2072 bytes  docs/components/hand-controls.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 01:48:33 +0000      719 bytes  docs/components/keyboard-shortcuts.md</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 01:48:33 +0000     5666 bytes  docs/components/light.md</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 01:48:33 +0000     1321 bytes  docs/components/look-controls.md</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 01:48:33 +0000    19347 bytes  docs/components/material.md</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 01:48:33 +0000     2620 bytes  docs/components/obj-model.md</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 01:48:33 +0000     3398 bytes  docs/components/oculus-touch-controls.md</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 01:48:33 +0000     1370 bytes  docs/components/pool.md</tspan>
+<tspan x="10" y="506"> 30.  2017-04-22 01:48:33 +0000     1561 bytes  docs/components/position.md</tspan>
+<tspan x="10" y="522"> 31.  2017-04-22 01:48:33 +0000     6817 bytes  docs/components/raycaster.md</tspan>
+<tspan x="10" y="538"> 32.  2017-04-22 01:48:33 +0000     1471 bytes  docs/components/rotation.md</tspan>
+<tspan x="10" y="554"> 33.  2017-04-22 01:48:33 +0000     1529 bytes  docs/components/scale.md</tspan>
+<tspan x="10" y="570"> 34.  2017-04-22 01:48:33 +0000     1646 bytes  docs/components/screenshot.md</tspan>
+<tspan x="10" y="586"> 35.  2017-04-22 01:48:33 +0000     2707 bytes  docs/components/sound.md</tspan>
+<tspan x="10" y="602"> 36.  2017-04-22 01:48:33 +0000     1150 bytes  docs/components/stats.md</tspan>
+<tspan x="10" y="618"> 37.  2017-04-22 01:48:33 +0000    13922 bytes  docs/components/text.md</tspan>
+<tspan x="10" y="634"> 38.  2017-04-22 01:48:33 +0000     2265 bytes  docs/components/tracked-controls.md</tspan>
+<tspan x="10" y="650"> 39.  2017-04-22 01:48:33 +0000      888 bytes  docs/components/visible.md</tspan>
+<tspan x="10" y="666"> 40.  2017-04-22 01:48:33 +0000     1957 bytes  docs/components/vive-controls.md</tspan>
+<tspan x="10" y="682"> 41.  2017-04-22 01:48:33 +0000      646 bytes  docs/components/vr-mode-ui.md</tspan>
+<tspan x="10" y="698"> 42.  2017-04-22 01:48:33 +0000     1494 bytes  docs/components/wasd-controls.md</tspan>
+<tspan x="10" y="714"> 43.  2017-04-22 01:48:33 +0000     6495 bytes  docs/core/AFRAME.md</tspan>
+<tspan x="10" y="730"> 44.  2017-04-22 01:48:33 +0000    10063 bytes  docs/core/animations.md</tspan>
+<tspan x="10" y="746"> 45.  2017-04-22 01:48:33 +0000     7798 bytes  docs/core/asset-management-system.md</tspan>
+<tspan x="10" y="762"> 46.  2017-04-22 01:48:33 +0000    26465 bytes  docs/core/component.md</tspan>
+<tspan x="10" y="778"> 47.  2017-04-22 01:48:33 +0000    15345 bytes  docs/core/entity.md</tspan>
+<tspan x="10" y="794"> 48.  2017-04-22 01:48:33 +0000     3429 bytes  docs/core/index.md</tspan>
+<tspan x="10" y="810"> 49.  2017-04-22 01:48:33 +0000     2999 bytes  docs/core/mixins.md</tspan>
+<tspan x="10" y="826"> 50.  2017-04-22 01:48:33 +0000     4796 bytes  docs/core/scene.md</tspan>
+<tspan x="10" y="842"> 51.  2017-04-22 01:48:33 +0000     3747 bytes  docs/core/systems.md</tspan>
+<tspan x="10" y="858"> 52.  2017-04-22 01:48:33 +0000     4938 bytes  docs/core/utils.md</tspan>
+<tspan x="10" y="874"> 53.  2017-04-22 01:48:33 +0000    14447 bytes  docs/guides/building-with-components.md</tspan>
+<tspan x="10" y="890"> 54.  2017-04-22 01:48:33 +0000     6498 bytes  docs/guides/building-with-magicavoxel.md</tspan>
+<tspan x="10" y="906"> 55.  2017-04-22 01:48:33 +0000    25356 bytes  docs/guides/index.md</tspan>
+<tspan x="10" y="922"> 56.  2017-04-22 01:48:33 +0000    12401 bytes  docs/guides/using-javascript-and-dom-apis.md</tspan>
+<tspan x="10" y="938"> 57.  2017-04-22 01:48:33 +0000     3573 bytes  docs/guides/using-the-aframe-inspector.md</tspan>
+<tspan x="10" y="954"> 58.  2017-04-22 01:48:33 +0000     5050 bytes  docs/guides/using-with-threejs.md</tspan>
+<tspan x="10" y="970"> 59.  2017-04-22 01:48:33 +0000    25761 bytes  docs/guides/writing-a-component.md</tspan>
+<tspan x="10" y="986"> 60.  2017-04-22 01:48:33 +0000     2855 bytes  docs/introduction/best-practices.md</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-22 01:48:33 +0000     1833 bytes  docs/introduction/device-and-platform-support.md</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-22 01:48:33 +0000    10837 bytes  docs/introduction/faq.md</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-22 01:48:33 +0000     4134 bytes  docs/introduction/getting-started.md</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-22 01:48:33 +0000     8729 bytes  docs/introduction/index.md</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-22 01:48:33 +0000     3303 bytes  docs/primitives/a-box.md</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-22 01:48:33 +0000     1505 bytes  docs/primitives/a-camera.md</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-22 01:48:33 +0000     3636 bytes  docs/primitives/a-circle.md</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-22 01:48:33 +0000      812 bytes  docs/primitives/a-collada-model.md</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-22 01:48:33 +0000     3570 bytes  docs/primitives/a-cone.md</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-22 01:48:33 +0000      876 bytes  docs/primitives/a-cursor.md</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-22 01:48:33 +0000     2504 bytes  docs/primitives/a-curvedimage.md</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-22 01:48:33 +0000     3841 bytes  docs/primitives/a-cylinder.md</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-22 01:48:33 +0000     3387 bytes  docs/primitives/a-dodecahedron.md</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-22 01:48:33 +0000      769 bytes  docs/primitives/a-gltf-model.md</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-22 01:48:33 +0000     2914 bytes  docs/primitives/a-icosahedron.md</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-22 01:48:33 +0000     1620 bytes  docs/primitives/a-image.md</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-22 01:48:33 +0000     1253 bytes  docs/primitives/a-light.md</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-22 01:48:33 +0000     1315 bytes  docs/primitives/a-obj-model.md</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-22 01:48:33 +0000     2911 bytes  docs/primitives/a-octahedron.md</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-22 01:48:33 +0000     3487 bytes  docs/primitives/a-plane.md</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-22 01:48:33 +0000     3481 bytes  docs/primitives/a-ring.md</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-22 01:48:33 +0000     1980 bytes  docs/primitives/a-sky.md</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-22 01:48:33 +0000      649 bytes  docs/primitives/a-sound.md</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-22 01:48:33 +0000     3565 bytes  docs/primitives/a-sphere.md</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-22 01:48:33 +0000     2914 bytes  docs/primitives/a-tetrahedron.md</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-22 01:48:33 +0000     1148 bytes  docs/primitives/a-text.md</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-22 01:48:33 +0000     3493 bytes  docs/primitives/a-torus-knot.md</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-22 01:48:33 +0000     3369 bytes  docs/primitives/a-torus.md</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-22 01:48:33 +0000     2239 bytes  docs/primitives/a-video.md</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-22 01:48:33 +0000     2136 bytes  docs/primitives/a-videosphere.md</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-22 01:48:33 +0000     4512 bytes  docs/primitives/index.md</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-22 01:48:33 +0000      152 bytes  index.html</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-22 01:48:33 +0000     3985 bytes  package.json</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-22 01:48:33 +0000     1341 bytes  scripts/budo.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-22 01:48:33 +0000     1919 bytes  scripts/docs-primitives/index.html</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-22 01:48:33 +0000     4713 bytes  scripts/docsLint.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-22 01:48:33 +0000     1221 bytes  scripts/release.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-22 01:48:33 +0000      830 bytes  scripts/updateVersionLog.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-22 01:48:33 +0000      984 bytes  src/components/blend-character-model.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-22 01:48:33 +0000     5251 bytes  src/components/camera.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-22 01:48:33 +0000      803 bytes  src/components/collada-model.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-22 01:48:33 +0000     5482 bytes  src/components/cursor.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-22 01:48:33 +0000     3714 bytes  src/components/geometry.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-22 01:48:33 +0000      873 bytes  src/components/gltf-model.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-22 01:48:33 +0000    11726 bytes  src/components/hand-controls.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-22 01:48:33 +0000      874 bytes  src/components/index.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-22 01:48:33 +0000     5498 bytes  src/components/light.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-22 01:48:33 +0000     9280 bytes  src/components/look-controls.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-22 01:48:33 +0000     5234 bytes  src/components/material.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-22 01:48:33 +0000     2103 bytes  src/components/obj-model.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-22 01:48:33 +0000    10143 bytes  src/components/oculus-touch-controls.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-22 01:48:33 +0000      305 bytes  src/components/position.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-22 01:48:33 +0000     5179 bytes  src/components/raycaster.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-22 01:48:33 +0000      470 bytes  src/components/rotation.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-22 01:48:33 +0000      576 bytes  src/components/scale.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-22 01:48:33 +0000     2161 bytes  src/components/scene/auto-enter-vr.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-22 01:48:33 +0000     1468 bytes  src/components/scene/canvas.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-22 01:48:33 +0000      144 bytes  src/components/scene/debug.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-22 01:48:33 +0000      646 bytes  src/components/scene/embedded.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-22 01:48:33 +0000     1744 bytes  src/components/scene/fog.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-22 01:48:33 +0000     2936 bytes  src/components/scene/inspector.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-22 01:48:33 +0000     1190 bytes  src/components/scene/keyboard-shortcuts.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-22 01:48:33 +0000     2849 bytes  src/components/scene/pool.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-22 01:48:33 +0000     8702 bytes  src/components/scene/screenshot.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-22 01:48:33 +0000     2047 bytes  src/components/scene/stats.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-22 01:48:33 +0000     4328 bytes  src/components/scene/vr-mode-ui.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-22 01:48:33 +0000     4784 bytes  src/components/sound.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-22 01:48:33 +0000    14166 bytes  src/components/text.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-22 01:48:33 +0000     6632 bytes  src/components/tracked-controls.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-22 01:48:33 +0000      266 bytes  src/components/visible.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-22 01:48:33 +0000     8329 bytes  src/components/vive-controls.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-22 01:48:33 +0000     5750 bytes  src/components/wasd-controls.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-22 01:48:33 +0000     2900 bytes  src/constants/animation.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-22 01:48:33 +0000      171 bytes  src/constants/index.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-22 01:48:33 +0000      248 bytes  src/constants/keyboardevent.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-22 01:48:33 +0000    16935 bytes  src/core/a-animation.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-22 01:48:33 +0000     6920 bytes  src/core/a-assets.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-22 01:48:33 +0000     1351 bytes  src/core/a-cubemap.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-22 01:48:33 +0000    27095 bytes  src/core/a-entity.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-22 01:48:33 +0000     3160 bytes  src/core/a-mixin.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-22 01:48:33 +0000     7222 bytes  src/core/a-node.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-22 01:48:33 +0000     5857 bytes  src/core/a-register-element.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-22 01:48:33 +0000    15767 bytes  src/core/component.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-22 01:48:33 +0000     2064 bytes  src/core/geometry.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-22 01:48:33 +0000     4547 bytes  src/core/propertyTypes.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-22 01:48:33 +0000    15796 bytes  src/core/scene/a-scene.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-22 01:48:33 +0000     2451 bytes  src/core/scene/metaTags.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-22 01:48:33 +0000      741 bytes  src/core/scene/postMessage.js</tspan>
+<tspan x="10" y="2410">149.  2017-04-22 01:48:33 +0000       78 bytes  src/core/scene/scenes.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-22 01:48:33 +0000      349 bytes  src/core/scene/wakelock.js</tspan>
+<tspan x="10" y="2442">151.  2017-04-22 01:48:33 +0000     5296 bytes  src/core/schema.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-22 01:48:33 +0000     5018 bytes  src/core/shader.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-22 01:48:33 +0000     3683 bytes  src/core/system.js</tspan>
+<tspan x="10" y="2490">154.  2017-04-22 01:48:33 +0000       20 bytes  src/extras/components/index.js</tspan>
+<tspan x="10" y="2506">155.  2017-04-22 01:48:33 +0000     1453 bytes  src/extras/components/pivot.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-22 01:48:33 +0000      541 bytes  src/extras/primitives/README.md</tspan>
+<tspan x="10" y="2538">157.  2017-04-22 01:48:33 +0000      814 bytes  src/extras/primitives/getMeshMixin.js</tspan>
+<tspan x="10" y="2554">158.  2017-04-22 01:48:33 +0000      497 bytes  src/extras/primitives/index.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-22 01:48:33 +0000     5646 bytes  src/extras/primitives/primitives.js</tspan>
+<tspan x="10" y="2586">160.  2017-04-22 01:48:33 +0000     1298 bytes  src/extras/primitives/primitives/a-camera.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-22 01:48:33 +0000      155 bytes  src/extras/primitives/primitives/a-collada-model\</tspan>
+<tspan x="10" y="2618">.js</tspan>
+<tspan x="10" y="2634">162.  2017-04-22 01:48:33 +0000      761 bytes  src/extras/primitives/primitives/a-cursor.js</tspan>
+<tspan x="10" y="2650">163.  2017-04-22 01:48:33 +0000      893 bytes  src/extras/primitives/primitives/a-curvedimage.j\</tspan>
+<tspan x="10" y="2666">s</tspan>
+<tspan x="10" y="2682">164.  2017-04-22 01:48:33 +0000      652 bytes  src/extras/primitives/primitives/a-cylinder.js</tspan>
+<tspan x="10" y="2698">165.  2017-04-22 01:48:33 +0000      149 bytes  src/extras/primitives/primitives/a-gltf-model.js</tspan>
+<tspan x="10" y="2714">166.  2017-04-22 01:48:33 +0000      494 bytes  src/extras/primitives/primitives/a-image.js</tspan>
+<tspan x="10" y="2730">167.  2017-04-22 01:48:33 +0000      433 bytes  src/extras/primitives/primitives/a-light.js</tspan>
+<tspan x="10" y="2746">168.  2017-04-22 01:48:33 +0000      345 bytes  src/extras/primitives/primitives/a-obj-model.js</tspan>
+<tspan x="10" y="2762">169.  2017-04-22 01:48:33 +0000      591 bytes  src/extras/primitives/primitives/a-sky.js</tspan>
+<tspan x="10" y="2778">170.  2017-04-22 01:48:33 +0000      290 bytes  src/extras/primitives/primitives/a-sound.js</tspan>
+<tspan x="10" y="2794">171.  2017-04-22 01:48:33 +0000      172 bytes  src/extras/primitives/primitives/a-text.js</tspan>
+<tspan x="10" y="2810">172.  2017-04-22 01:48:33 +0000      494 bytes  src/extras/primitives/primitives/a-video.js</tspan>
+<tspan x="10" y="2826">173.  2017-04-22 01:48:33 +0000      615 bytes  src/extras/primitives/primitives/a-videosphere.j\</tspan>
+<tspan x="10" y="2842">s</tspan>
+<tspan x="10" y="2858">174.  2017-04-22 01:48:33 +0000     1210 bytes  src/extras/primitives/primitives/meshPrimitives.\</tspan>
+<tspan x="10" y="2874">js</tspan>
+<tspan x="10" y="2890">175.  2017-04-22 01:48:33 +0000      554 bytes  src/geometries/box.js</tspan>
+<tspan x="10" y="2906">176.  2017-04-22 01:48:33 +0000      515 bytes  src/geometries/circle.js</tspan>
+<tspan x="10" y="2922">177.  2017-04-22 01:48:33 +0000      785 bytes  src/geometries/cone.js</tspan>
+<tspan x="10" y="2938">178.  2017-04-22 01:48:33 +0000      727 bytes  src/geometries/cylinder.js</tspan>
+<tspan x="10" y="2954">179.  2017-04-22 01:48:33 +0000      360 bytes  src/geometries/dodecahedron.js</tspan>
+<tspan x="10" y="2970">180.  2017-04-22 01:48:33 +0000      358 bytes  src/geometries/icosahedron.js</tspan>
+<tspan x="10" y="2986">181.  2017-04-22 01:48:33 +0000      328 bytes  src/geometries/index.js</tspan>
+<tspan x="10" y="3002">182.  2017-04-22 01:48:33 +0000      356 bytes  src/geometries/octahedron.js</tspan>
+<tspan x="10" y="3018">183.  2017-04-22 01:48:33 +0000      450 bytes  src/geometries/plane.js</tspan>
+<tspan x="10" y="3034">184.  2017-04-22 01:48:33 +0000      673 bytes  src/geometries/ring.js</tspan>
+<tspan x="10" y="3050">185.  2017-04-22 01:48:33 +0000      726 bytes  src/geometries/sphere.js</tspan>
+<tspan x="10" y="3066">186.  2017-04-22 01:48:33 +0000      358 bytes  src/geometries/tetrahedron.js</tspan>
+<tspan x="10" y="3082">187.  2017-04-22 01:48:33 +0000      596 bytes  src/geometries/torus.js</tspan>
+<tspan x="10" y="3098">188.  2017-04-22 01:48:33 +0000      596 bytes  src/geometries/torusKnot.js</tspan>
+<tspan x="10" y="3114">189.  2017-04-22 01:48:33 +0000     3667 bytes  src/index.js</tspan>
+<tspan x="10" y="3130">190.  2017-04-22 01:48:33 +0000     1043 bytes  src/lib/rStatsAframe.js</tspan>
+<tspan x="10" y="3146">191.  2017-04-22 01:48:33 +0000     1322 bytes  src/lib/three.js</tspan>
+<tspan x="10" y="3162">192.  2017-04-22 01:48:33 +0000     1621 bytes  src/shaders/flat.js</tspan>
+<tspan x="10" y="3178">193.  2017-04-22 01:48:33 +0000       79 bytes  src/shaders/index.js</tspan>
+<tspan x="10" y="3194">194.  2017-04-22 01:48:33 +0000     2647 bytes  src/shaders/msdf.js</tspan>
+<tspan x="10" y="3210">195.  2017-04-22 01:48:33 +0000     4300 bytes  src/shaders/sdf.js</tspan>
+<tspan x="10" y="3226">196.  2017-04-22 01:48:33 +0000     5363 bytes  src/shaders/standard.js</tspan>
+<tspan x="10" y="3242">197.  2017-04-22 01:48:33 +0000     9799 bytes  src/style/aframe.css</tspan>
+<tspan x="10" y="3258">198.  2017-04-22 01:48:33 +0000     1593 bytes  src/style/rStats.css</tspan>
+<tspan x="10" y="3274">199.  2017-04-22 01:48:33 +0000     4361 bytes  src/systems/camera.js</tspan>
+<tspan x="10" y="3290">200.  2017-04-22 01:48:33 +0000     3686 bytes  src/systems/geometry.js</tspan>
+<tspan x="10" y="3306">201.  2017-04-22 01:48:33 +0000     1000 bytes  src/systems/gltf-model.js</tspan>
+<tspan x="10" y="3322">202.  2017-04-22 01:48:33 +0000      144 bytes  src/systems/index.js</tspan>
+<tspan x="10" y="3338">203.  2017-04-22 01:48:33 +0000     2755 bytes  src/systems/light.js</tspan>
+<tspan x="10" y="3354">204.  2017-04-22 01:48:33 +0000    10555 bytes  src/systems/material.js</tspan>
+<tspan x="10" y="3370">205.  2017-04-22 01:48:33 +0000     1275 bytes  src/systems/tracked-controls.js</tspan>
+<tspan x="10" y="3386">206.  2017-04-22 01:48:33 +0000      585 bytes  src/utils/bind.js</tspan>
+<tspan x="10" y="3402">207.  2017-04-22 01:48:33 +0000     2283 bytes  src/utils/coordinates.js</tspan>
+<tspan x="10" y="3418">208.  2017-04-22 01:48:33 +0000     2013 bytes  src/utils/debug.js</tspan>
+<tspan x="10" y="3434">209.  2017-04-22 01:48:33 +0000     4083 bytes  src/utils/device.js</tspan>
+<tspan x="10" y="3450">210.  2017-04-22 01:48:33 +0000     1221 bytes  src/utils/entity.js</tspan>
+<tspan x="10" y="3466">211.  2017-04-22 01:48:33 +0000      700 bytes  src/utils/forceCanvasResizeSafariMobile.js</tspan>
+<tspan x="10" y="3482">212.  2017-04-22 01:48:33 +0000     8763 bytes  src/utils/index.js</tspan>
+<tspan x="10" y="3498">213.  2017-04-22 01:48:33 +0000     3460 bytes  src/utils/material.js</tspan>
+<tspan x="10" y="3514">214.  2017-04-22 01:48:33 +0000     3493 bytes  src/utils/src-loader.js</tspan>
+<tspan x="10" y="3530">215.  2017-04-22 01:48:33 +0000     1721 bytes  src/utils/styleParser.js</tspan>
+<tspan x="10" y="3546">216.  2017-04-22 01:48:33 +0000     2115 bytes  src/utils/tracked-controls.js</tspan>
+<tspan x="10" y="3562">217.  2017-04-22 01:48:33 +0000       43 bytes  vendor/README.md</tspan>
+<tspan x="10" y="3578">218.  2017-04-22 01:48:33 +0000     2834 bytes  vendor/VRControls.js</tspan>
+<tspan x="10" y="3594">219.  2017-04-22 01:48:33 +0000    11017 bytes  vendor/VREffect.js</tspan>
+<tspan x="10" y="3610">220.  2017-04-22 01:48:33 +0000     6814 bytes  vendor/rStats.extras.js</tspan>
+<tspan x="10" y="3626">221.  2017-04-22 01:48:33 +0000    14136 bytes  vendor/rStats.js</tspan>
+<tspan x="10" y="3642">222.  2017-04-22 01:48:33 +0000     3740 bytes  vendor/wakelock/util.js</tspan>
+<tspan x="10" y="3658">223.  2017-04-22 01:48:33 +0000     4550 bytes  vendor/wakelock/wakelock.js</tspan>
+</text>
+</svg>
